@@ -19,7 +19,7 @@ class DXAsia:
         self.df = pd.read_excel(self.fn, dtype=object)
         self.output = Path(output)
 
-    def field(self, column):
+    def data(self, column):
         folder = self.output / '_data' / column
         if not folder.exists():
             folder.mkdir(parents=True)
