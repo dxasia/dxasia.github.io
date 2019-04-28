@@ -1,0 +1,32 @@
+{% include head.html %}
+{% include nav.html %}
+{% assign key = page.title %}
+<div id="content">
+    <table>
+        <tr>
+            <th>start</th>
+            <th>end</th>
+            <th>station</th>
+            <th>freq</th>
+            <th colspan="7">days</th>
+            <th>transmission</th>
+        </tr>
+        {% for rec in site.data.station[key] %}
+        <tr>
+            <td>{{ rec.start }}</td>
+            <td>{{ rec.end }}</td>
+            <td>{{ rec.language }}</td>
+            <td>{{ rec.freq }}</td>
+            <td>{{ rec.d1 }}</td>
+            <td>{{ rec.d2 }}</td>
+            <td>{{ rec.d3 }}</td>
+            <td>{{ rec.d4 }}</td>
+            <td>{{ rec.d5 }}</td>
+            <td>{{ rec.d6 }}</td>
+            <td>{{ rec.d7 }}</td>
+            <td>{{ rec.tx }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% include footer.html %}

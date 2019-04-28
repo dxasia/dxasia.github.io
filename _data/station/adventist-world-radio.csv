@@ -1,0 +1,32 @@
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
+0200,0230,Urdu,7385,Su,Mo,Tu,We,Th,Fr,Sa,Moosburn,1234567
+0230,0300,Panjabi,7385,Su,Mo,Tu,We,Th,Fr,Sa,Moosburn,1234567
+1300,1330,Bangla,15430,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1300,1330,Nepali,15255,Su,Mo,Tu,We,Th,Fr,Sa,Dushanbe,1234567
+1330,1400,Kokborok,15255,Su,Mo,Tu,We,Th,Fr,Sa,Agat,1234567
+1330,1400,Assamese,15550,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1  4
+1330,1400,Khasi,15430,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1400,1430,Sinhalese,15530,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar,1234567
+1400,1430,Urdu,15440,Su,Mo,Tu,We,Th,Fr,Sa,Moosburn,1234567
+1430,1500,Telugu,1548,Su,Mo, ,We,Th,Fr,Sa,Trincomalee,124567
+1500,1530,Nepali,9740,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1500,1530,Tamil,9470,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,1234567
+1500,1530,Panjabi,15605,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1500,1530,Mizo,11945,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1500,1530,Telugu,15590,Su,Mo,Tu,We,Th,Fr,Sa,Yerevan,1234567
+1500,1530,Tamil ,1548,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1530,1600,Hindi,15285,Su,Mo,Tu,We,Th,Fr,Sa,Yerevan,1234567
+1530,1600,Oriya,9470,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1530,1600,Malayalam,15605,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar,1234567
+1530,1600,Hindi,15215,Su,Mo,Tu,We,Th,Fr,Sa,Nauen,1234567
+1530,1600,Tibetan,15670, , , , ,Th,Fr, ,Nauen,56
+1530,1600,English,15670,Su,Mo,Tu,We, , ,Sa,Nauen,1234  7
+1530,1600,Marathi,9910,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1530,1600,Panjabi,15165,Su,Mo,Tu,We,Th,Fr,Sa,Moosburn,1234567
+1530,1600,Gujarati,12025,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1530,1600,Kannada,9580,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,1234567
+1530,1600,Hindi ,1548,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1600,1630,English,9580,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1600,1630,Urdu,11755,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+1600,1630,English,9490,Su,Mo,Tu,We,Th,Fr,Sa,Yerevan,1234567
+1600,1630,Urdu,15165,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar,1234567

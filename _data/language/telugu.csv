@@ -1,0 +1,10 @@
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
+Adventist World Radio,1430,1500,1548,Su,Mo, ,We,Th,Fr,Sa,Trincomalee,124567
+Adventist World Radio,1500,1530,15590,Su,Mo,Tu,We,Th,Fr,Sa,Yerevan,1234567
+All India Radio,1215,1315,13695,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru,
+FEBA Radio,1400,1415,11580, ,Mo,Tu, , , , ,Trincomalee,
+Radio Veritas Asia PHL,1430,1500,11870,Su,Mo,Tu,We,Th,Fr,Sa,Palauig,
+Reach Beyond Australia,,,9610, ,Mo,Tu, ,Th, ,Sa,Kununurra,
+Reach Beyond Australia,,,15320, , , , ,Th, , ,Kununurra,
+Trans World Radio,1345,1400,882, , , , , , ,Sa,Puttalam,
+Trans World Radio,1400,1430,882, ,Mo,Tu,We,Th,Fr, ,Puttalam,

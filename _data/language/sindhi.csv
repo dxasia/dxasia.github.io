@@ -1,0 +1,9 @@
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
+All India Radio,0100,0200,7380,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru,
+All India Radio,0100,0200,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot,
+,1230,1500,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot,
+All India Radio,1230,1500,7340,Su,Mo,Tu,We,Th,Fr,Sa,Mumbai,
+All India Radio,1230,1500,9620,Su,Mo,Tu,We,Th,Fr,Sa,Aligarh,
+FEBA Radio,0215,0230,9750,,,Tu,We,Th,,,Dhabayya,
+Gospel for Asia,,,7465, , , ,We, , , ,Tashkent,
+Gospel for Asia,,,15150,Su, , , , , ,Sa,Nauen,

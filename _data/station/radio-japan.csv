@@ -1,0 +1,11 @@
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
+0100,0120,Hindi,9820,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
+1100,1130,English,11695,Su,Mo,Tu,We,Th,Fr,Sa,Singapore,
+1300,1345,Bangla,11685,Su,Mo,Tu,We,Th,Fr,Sa,Singapore,
+1300,1330,English,15735,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
+1400,1430,English,11705,Su,Mo,Tu,We,Th,Fr,Sa,Palau,
+1400,1430,English,11935,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
+1430,1500,Hindi,15745,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar,
+1515,1600,Urdu,11775,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya,
+1530,1600,Hindi,9600,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
+1700,1745,Urdu,927,Su,Mo,Tu,We,Th,Fr,Sa,Dushanbe,

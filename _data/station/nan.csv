@@ -1,0 +1,17 @@
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+25,100,Urdu,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot,nan
+25,430,Urdu,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan
+800,830,Panjabi,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan
+830,1130,Urdu,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan
+830,1130,Urdu,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot,nan
+1000,1515,Bangla,594,Su,Mo,Tu,We,Th,Fr,Sa,Chinsurah,nan
+1000,1100,English,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin,nan
+1000,1300,Tamil,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin,nan
+1130,1230,Panjabi,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan
+1230,1300,Saraiki,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan
+1230,1500,Sindhi,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot,nan
+1300,1430,Panjabi,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan
+1300,1500,Sinhala,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin,nan
+1430,1930,Urdu,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar,nan

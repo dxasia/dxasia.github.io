@@ -1,0 +1,25 @@
+title: DXAsia
+email: feedback@dxasia.in
+description: South Asian DX Listings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dxasia.in" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+- dxasia.py
+- data
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
