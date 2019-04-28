@@ -44,6 +44,7 @@ class DXAsia:
                 "title: %s\n"
                 "---\n" % (column, xs)
             )
+        data = sorted(set(data))
         pd.DataFrame(data, columns=['name', 'slug']).to_csv(
             str(self.output / '_data' / (column + 's.csv')), index=False)
 
