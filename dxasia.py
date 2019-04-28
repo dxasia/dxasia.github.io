@@ -33,15 +33,18 @@ class DXAsia:
         folder = self.output / column
         if not folder.exists():
             folder.mkdir()
+        data = []
         for x in set(self.df[column]):
             if x == '' or not isinstance(x, str): continue
             xs = slugify(x)
+            data.append((x, xs))
             (folder / (xs + '.md')).write_text(
                 "---\n"
                 "layout: %s\n"
                 "title: %s\n"
                 "---\n" % (column, xs)
             )
+        pd.DataFrame(data, columns=['name', 'slug']).to_csv(str(self.output / '_data' / (column + 's.csv')))
 
 
 def main():
