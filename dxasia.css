@@ -25,6 +25,19 @@ font-weight: normal; font-size: 250%;
 color: #806040; margin-left: 20px
 }
 
+ul.index {
+    list-style-type: none;
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px;
+}
+
+ul a {
+    text-decoration: none;
+}
 div#newsarea { background: #D5F4FF; color: black; padding:10px; font-size: 90%}
 
 div#newsarea h2 {margin-bottom:5px; font-weight:bold}

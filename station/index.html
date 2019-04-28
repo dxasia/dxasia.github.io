@@ -1,0 +1,11 @@
+---
+layout: page
+title: Stations
+---
+
+<ul class='index'>
+{% assign sorted = site.data.stations | sort: 'name' %}
+{% for station in sorted %}
+<li><a href='/station/{{ station.slug }}'>{{ station.name }}</a></li>
+{% endfor %}
+</ul>

@@ -1,0 +1,12 @@
+---
+layout: page
+title: Stations
+---
+
+<ul class='index'>
+{% assign lsorted = site.data.languages %}
+{% for language in lsorted %}
+<li><a href='/language/{{ language.slug }}'>{{ language.name }}</a></li>
+{% endfor %}
+</ul>
+
