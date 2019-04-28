@@ -37,14 +37,15 @@ class DXAsia:
         for x in set(self.df[column]):
             if x == '' or not isinstance(x, str): continue
             xs = slugify(x)
-            data.append((x, xs))
+            data.append((x.strip(), xs))
             (folder / (xs + '.md')).write_text(
                 "---\n"
                 "layout: %s\n"
                 "title: %s\n"
                 "---\n" % (column, xs)
             )
-        pd.DataFrame(data, columns=['name', 'slug']).to_csv(str(self.output / '_data' / (column + 's.csv')))
+        pd.DataFrame(data, columns=['name', 'slug']).to_csv(
+            str(self.output / '_data' / (column + 's.csv')), index=False)
 
 
 def main():
