@@ -7,7 +7,12 @@ import fire
 def zero_pad_cols(df, columns=['start', 'end']):
 
     def zero_pad(t):
-        return "%04d" % t if isinstance(t, int) else None
+        if isinstance(t, int):
+            return "%04d" % t
+        if isinstance(t, str):
+            return t
+        return None
+
     for c in columns:
         df[c] = df[c].map(zero_pad)
     return df
