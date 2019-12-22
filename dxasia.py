@@ -31,6 +31,8 @@ class DXAsia:
         for x in set(self.df[column]):
             if x == '' or not isinstance(x, str): continue
             df_x = self.df[self.df[column] == x]
+            if x == 'English':
+                print(df_x)
             del df_x[column]
             zero_pad_cols(df_x).to_csv(str(folder / (slugify(x) + '.csv')), index=False)
 
