@@ -1,6 +1,6 @@
 station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
-Gospel for Asia,,,7465, ,Mo,Tu, , , , ,Tashkent
-Gospel for Asia,,,15285, ,Mo,Tu, , , , ,Nauen
-Reach Beyond Australia,,,11750,Su, , , , , , ,Kununurra
-Reach Beyond Australia,,,11750, ,Mo, , , , , ,Kununurra
-Reach Beyond Australia,,,9720, , ,Tu, , , , ,Kununurra
+Gospel for Asia,0100,0115,7465, ,Mo,Tu, , , , ,Tashkent
+Gospel for Asia,1345,1400,15285, ,Mo,Tu, , , , ,Nauen
+Reach Beyond Australia,1230,1245,11750,Su, , , , , , ,Kununurra
+Reach Beyond Australia,1315,1330,11750, ,Mo, , , , , ,Kununurra
+Reach Beyond Australia,1330,1345,9720, , ,Tu, , , , ,Kununurra

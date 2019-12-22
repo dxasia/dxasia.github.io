@@ -30,16 +30,16 @@ start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
 2330,2400,Gujarati,882,Su,Mo,Tu,We,Th,Fr, ,Puttalam
 2330,2345,Kukna,882,,,,,,,Sa,Puttalam
 2345,2400,Kutchi,882,,,,,,,Sa,Puttalam
-,1345,Garhwali,1467, , , , , ,Fr, ,Bishkek
-,1345,Kashmiri,1467, , , , , , ,Sa,Bishkek
-,1400,Punjabi,1467, ,Mo,Tu, , , , ,Bishkek
-,1355,Kumaoni,1467, , , , , , ,Sa,Bishkek
-,1400,Bagri,1467, , , , , ,Fr, ,Bishkek
-,1430,Punjabi,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
-,1500,Urdu,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
-,1530,Punjabi,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
-,1600,Dari,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
-,1345,Garhwali,1467, , , , , ,Fr, ,Bishkek
+1330,1345,Garhwali,1467, , , , , ,Fr, ,Bishkek
+1330,1345,Kashmiri,1467, , , , , , ,Sa,Bishkek
+1330,1400,Punjabi,1467, ,Mo,Tu, , , , ,Bishkek
+1345,1355,Kumaoni,1467, , , , , , ,Sa,Bishkek
+1345,1400,Bagri,1467, , , , , ,Fr, ,Bishkek
+1400,1430,Punjabi,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
+1430,1500,Urdu,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
+1500,1530,Punjabi,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
+1530,1600,Dari,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
+1330,1345,Garhwali,1467, , , , , ,Fr, ,Bishkek
 0045,0115, Hindi,7465,, Mo,Tu,We,Th, Fr,,Grigoriopol
 0115,0130, Hindi,7465,,,Tu,,,,,Grigoriopol
 0115,0130, Dzonkha,7465,,,,We,,,,Grigoriopol
@@ -97,11 +97,11 @@ start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
 1530,1600, English,9300, Su,,,,,, Sa,Yerevan
 1535,1540, English,9300,, Mo,Tu,We,Th, Fr,,Yerevan
 1400,1415,Urdu,15360,Su,Mo,Tu,We,Th,Fr,Sa,Swaziland
-,,English,11965, ,Mo, , , , , ,Agana
-,,English,11965, , ,Tu,We,Th,Fr, ,Agana
-,,English,11965,Su, , , , , , ,Agana
-,,Assamese,12160, ,Mo,Tu,We,Th,Fr, ,Agana
-,,Dzongkha,11580,Su, , , , , ,Sa,Agana
-,,English,12160, , , , , , ,Sa,Agana
-,,Kok Borok,12160, ,Mo,Tu,We,Th,Fr, ,Agana
-,,Kok Borok,12160,Su, , , , , , ,Agana
+1100,1130,English,11965, ,Mo, , , , , ,Agana
+1100,1145,English,11965, , ,Tu,We,Th,Fr, ,Agana
+1100,1155,English,11965,Su, , , , , , ,Agana
+1215,1245,Assamese,12160, ,Mo,Tu,We,Th,Fr, ,Agana
+1230,1245,Dzongkha,11580,Su, , , , , ,Sa,Agana
+1245,1315,English,12160, , , , , , ,Sa,Agana
+1245,1315,Kok Borok,12160, ,Mo,Tu,We,Th,Fr, ,Agana
+1245,1300,Kok Borok,12160,Su, , , , , , ,Agana

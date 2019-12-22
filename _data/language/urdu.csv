@@ -1,3 +1,52 @@
 station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
-Trans World Radio,1345,1400,12160,,,,,,, Sa,Tashkent
-Trans World Radio,1600,1630,9610, Su, Mo,Tu,We,Th, Fr, Sa,Grigoriopol
+Adventist World Radio,0200,0230,7385,Su,Mo,Tu,We,Th,Fr,Sa,Moosburn
+Adventist World Radio,1400,1430,15440,Su,Mo,Tu,We,Th,Fr,Sa,Moosburn
+Adventist World Radio,1600,1630,11755,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee
+Adventist World Radio,1600,1630,15165,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar
+All India Radio,0025,0100,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot
+All India Radio,0025,0430,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar
+All India Radio,0025,0430,6140,Su,Mo,Tu,We,Th,Fr,Sa,Aligarh
+All India Radio,0025,0430,7340,Su,Mo,Tu,We,Th,Fr,Sa,Mumbai
+All India Radio,0200,0430,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot
+All India Radio,0830,1130,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar
+All India Radio,0830,1130,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot
+All India Radio,0830,1130,7340,Su,Mo,Tu,We,Th,Fr,Sa,Mumbai
+All India Radio,0830,1130,9620,Su,Mo,Tu,We,Th,Fr,Sa,Aligarh
+All India Radio,0830,1130,9950,Su,Mo,Tu,We,Th,Fr,Sa,Delhi
+All India Radio,1430,1930,702,Su,Mo,Tu,We,Th,Fr,Sa,Jullandhar
+All India Radio,1430,1930,6140,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru
+All India Radio,1600,1930,1071,Su,Mo,Tu,We,Th,Fr,Sa,Rajkot
+Bangladesh Betar,1400,1430,4750,Su,Mo,Tu,We,Th,Fr,Sa,Dhaka
+BBC London,0200,0230,7290,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+BBC London,0200,0230,9410,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+BBC London,0200,0230,15310,Su,Mo,Tu,We,Th,Fr,Sa,Singapore
+BBC London,1500,1600,1413,Su,Mo,Tu,We,Th,Fr,Sa,A'Seela
+BBC London,1500,1600,7485,Su,Mo,Tu,We,Th,Fr,Sa,Singapore
+BBC London,1500,1600,9410,Su,Mo,Tu,We,Th,Fr,Sa,Singapore
+BBC London,1500,1600,9445,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+BBC London,1500,1600,12095,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+Bible Voice,1500,1600,15350,,,,We,,, ,Sofia
+China Radio Intl,0100,0157,7240,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,0100,0157,9695,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,0200,0300,9450,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,0200,0257,11650,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,1400,1557,9435,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,1400,1500,11660,Su,Mo,Tu,We,Th,Fr,Sa,Kunming
+China Radio Intl,1500,1557,7285,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+FEBA Radio,0200,0215,9750,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+FEBA Radio,0215,0230,9750,Su, , , , ,Fr,Sa,Dhabayya
+Gospel for Asia,1345,1400,15285, , , , , ,Fr,Sa,Nauen
+Radio Japan,1515,1600,11775,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+Radio Japan,1700,1745,927,Su,Mo,Tu,We,Th,Fr,Sa,Dushanbe
+Radio Kuwait,1600,1800,15540,Su,Mo,Tu,We,Th,Fr,Sa,Sulaibiyah
+Radio Teheran,1250,1420,13745,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+Radio Teheran,1520,1620,7300,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+Reach Beyond Australia,1245,1300,11900, , , , , , ,Sa,Kununurra
+Reach Beyond Australia,1300,1315,11750, , , , , , ,Sa,Kununurra
+Reach Beyond Australia,1430,1445,9720, , , , , , ,Sa,Kununurra
+Saudi Arab Radio,1200,1455,13775,Su,Mo,Tu,We,Th,Fr,Sa,Riyadh
+Trans World Radio,1430,1500,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
+Trans World Radio,1400,1415,15360,Su,Mo,Tu,We,Th,Fr,Sa,Swaziland
+VOA Washington,0000,0200,972,Su,Mo,Tu,We,Th,Fr,Sa,Dushanbe
+VOA Washington,1400,2400,972,Su,Mo,Tu,We,Th,Fr,Sa,Dushanbe
+Voice of Turkey,1200,1255,13710,Su,Mo,Tu,We,Th,Fr,Sa,Emirler

@@ -1,3 +1,3 @@
 station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
-Trans World Radio,,,12160, ,Mo,Tu,We,Th,Fr, ,Agana
-Trans World Radio,,,12160,Su, , , , , , ,Agana
+Trans World Radio,1245,1315,12160, ,Mo,Tu,We,Th,Fr, ,Agana
+Trans World Radio,1245,1300,12160,Su, , , , , , ,Agana

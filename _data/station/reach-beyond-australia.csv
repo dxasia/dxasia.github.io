@@ -1,52 +1,52 @@
 start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
-,,Tibetan,15575, ,Mo, ,We, , , ,Kununurra
-,,English,15575, ,Mo,Tu,We, ,Fr, ,Kununurra
-,,English,11905,Su, , , , , ,Sa,Kununurra
-,,Chattisgarhi,11900,Su, , , , , ,Sa,Kununurra
-,,Hindi,11750,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
-,,Kannada,11900, ,Mo,Tu,We,Th,Fr, ,Kununurra
-,,Nagamese,9685,Su, , ,We, , ,Sa,Kununurra
-,,Hindi,11900,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
-,,Dzongkha,11750, , , , , ,Fr, ,Kununurra
-,,Kurukh,11750, , ,Tu,We, , , ,Kununurra
-,,Marwari,11750,Su, , , , , , ,Kununurra
-,,Nepali,11750, , , , , ,Fr, ,Kununurra
-,,Nepali,11750, ,Mo, , , , , ,Kununurra
-,,Oriya,11750, , , , , , ,Sa,Kununurra
-,,Bangla,11750, , , , , , ,Sa,Kununurra
-,,English,9685,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
-,,Hindi,11750,Su, ,Tu,We, ,Fr, ,Kununurra
-,,Hindi,11900,Su,Mo,Tu,We,Th,Fr, ,Kununurra
-,,Punjabi,11750, , , , ,Th, , ,Kununurra
-,,Urdu,11900, , , , , , ,Sa,Kununurra
-,,Bangla,11750, ,Mo, , ,Th, , ,Kununurra
-,,English,9610,Su, , , , , ,Sa,Kununurra
-,,Gujarati,9610,  , , , , ,Fr, ,Kununurra
-,,Hindi,15320,Su, , , , , , ,Kununurra
-,,Malayalam,9610, ,Mo, ,We, , , ,Kununurra
-,,Tamil,9610, , ,Tu, ,Th, ,Sa,Kununurra
-,,Tamil,15320, ,Mo,Tu,We,Th,Fr, ,Kununurra
-,,Tamil,15320, , , , , , ,Sa,Kununurra
-,,Urdu,11750, , , , , , ,Sa,Kununurra
-,,English,15320, ,Mo, ,We, ,Fr, ,Kununurra
-,,Gujarati,9610, , , ,We, , , ,Kununurra
-,,Gujarati,11750, , , , , ,Fr, ,Kununurra
-,,Marwari,11750, ,Mo, , , , , ,Kununurra
-,,Meitei,11750, , , , , , ,Sa,Kununurra
-,,Nepali,11750,Su, ,Tu, ,Th, , ,Kununurra
-,,Punjabi,11750, , , ,We, , , ,Kununurra
-,,Tamil,15320, , ,Tu, , , , ,Kununurra
-,,Telugu,9610, ,Mo,Tu, ,Th, ,Sa,Kununurra
-,,Telugu,15320, , , , ,Th, , ,Kununurra
-,,Bangla,9720, ,Mo, , ,Th, , ,Kununurra
-,,Chattisgarhi,9720,Su, , , , , ,Sa,Kununurra
-,,Gujarati,9720, , , , , ,Fr, ,Kununurra
-,,Himachali,9720, , , ,We, , , ,Kununurra
-,,Marwari,9720, , ,Tu, , , , ,Kununurra
-,,Bhojpuri,9720, , ,Tu, , , ,Sa,Kununurra
-,,Kurukh,9720, , , , ,Th, , ,Kununurra
-,,Marathi,9720, ,Mo, , , ,Fr, ,Kununurra
-,,Punjabi,9720,Su, , ,We, , , ,Kununurra
-,,Hindi,9720,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
-,,Hindi,9720,Su,Mo,Tu,We,Th,Fr, ,Kununurra
-,,Urdu,9720, , , , , , ,Sa,Kununurra
+1100,1115,Tibetan,15575, ,Mo, ,We, , , ,Kununurra
+1115,1130,English,15575, ,Mo,Tu,We, ,Fr, ,Kununurra
+1145,1200,English,11905,Su, , , , , ,Sa,Kununurra
+1200,1215,Chattisgarhi,11900,Su, , , , , ,Sa,Kununurra
+1200,1230,Hindi,11750,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
+1200,1215,Kannada,11900, ,Mo,Tu,We,Th,Fr, ,Kununurra
+1200,1230,Nagamese,9685,Su, , ,We, , ,Sa,Kununurra
+1215,1245,Hindi,11900,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
+1230,1245,Dzongkha,11750, , , , , ,Fr, ,Kununurra
+1230,1245,Kurukh,11750, , ,Tu,We, , , ,Kununurra
+1230,1245,Marwari,11750,Su, , , , , , ,Kununurra
+1230,1245,Nepali,11750, , , , , ,Fr, ,Kununurra
+1230,1300,Nepali,11750, ,Mo, , , , , ,Kununurra
+1230,1245,Oriya,11750, , , , , , ,Sa,Kununurra
+1245,1300,Bangla,11750, , , , , , ,Sa,Kununurra
+1245,1300,English,9685,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
+1245,1315,Hindi,11750,Su, ,Tu,We, ,Fr, ,Kununurra
+1245,1300,Hindi,11900,Su,Mo,Tu,We,Th,Fr, ,Kununurra
+1245,1300,Punjabi,11750, , , , ,Th, , ,Kununurra
+1245,1300,Urdu,11900, , , , , , ,Sa,Kununurra
+1300,1315,Bangla,11750, ,Mo, , ,Th, , ,Kununurra
+1300,1330,English,9610,Su, , , , , ,Sa,Kununurra
+1300,1330,Gujarati,9610,  , , , , ,Fr, ,Kununurra
+1300,1330,Hindi,15320,Su, , , , , , ,Kununurra
+1300,1315,Malayalam,9610, ,Mo, ,We, , , ,Kununurra
+1300,1315,Tamil,9610, , ,Tu, ,Th, ,Sa,Kununurra
+1300,1315,Tamil,15320, ,Mo,Tu,We,Th,Fr, ,Kununurra
+1300,1330,Tamil,15320, , , , , , ,Sa,Kununurra
+1300,1315,Urdu,11750, , , , , , ,Sa,Kununurra
+1315,1330,English,15320, ,Mo, ,We, ,Fr, ,Kununurra
+1315,1330,Gujarati,9610, , , ,We, , , ,Kununurra
+1315,1330,Gujarati,11750, , , , , ,Fr, ,Kununurra
+1315,1330,Marwari,11750, ,Mo, , , , , ,Kununurra
+1315,1330,Meitei,11750, , , , , , ,Sa,Kununurra
+1315,1330,Nepali,11750,Su, ,Tu, ,Th, , ,Kununurra
+1315,1330,Punjabi,11750, , , ,We, , , ,Kununurra
+1315,1330,Tamil,15320, , ,Tu, , , , ,Kununurra
+1315,1330,Telugu,9610, ,Mo,Tu, ,Th, ,Sa,Kununurra
+1315,1330,Telugu,15320, , , , ,Th, , ,Kununurra
+1330,1345,Bangla,9720, ,Mo, , ,Th, , ,Kununurra
+1330,1345,Chattisgarhi,9720,Su, , , , , ,Sa,Kununurra
+1330,1345,Gujarati,9720, , , , , ,Fr, ,Kununurra
+1330,1345,Himachali,9720, , , ,We, , , ,Kununurra
+1330,1345,Marwari,9720, , ,Tu, , , , ,Kununurra
+1345,1400,Bhojpuri,9720, , ,Tu, , , ,Sa,Kununurra
+1345,1400,Kurukh,9720, , , , ,Th, , ,Kununurra
+1345,1400,Marathi,9720, ,Mo, , , ,Fr, ,Kununurra
+1345,1400,Punjabi,9720,Su, , ,We, , , ,Kununurra
+1400,1430,Hindi,9720,Su,Mo,Tu,We,Th,Fr,Sa,Kununurra
+1430,1445,Hindi,9720,Su,Mo,Tu,We,Th,Fr, ,Kununurra
+1430,1445,Urdu,9720, , , , , , ,Sa,Kununurra

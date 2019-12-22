@@ -2,11 +2,11 @@ station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
 Adventist World Radio,1530,1600,12025,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee
 All India Radio,0415,0430,15185,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru
 All India Radio,1515,1600,15185,Su,Mo,Tu,We,Th,Fr,Sa,Panaji
-Gospel for Asia,,,15285, , , , ,Th,Fr, ,Nauen
-Reach Beyond Australia,,,9610,  , , , , ,Fr, ,Kununurra
-Reach Beyond Australia,,,9610, , , ,We, , , ,Kununurra
-Reach Beyond Australia,,,11750, , , , , ,Fr, ,Kununurra
-Reach Beyond Australia,,,9720, , , , , ,Fr, ,Kununurra
+Gospel for Asia,1245,1300,15285, , , , ,Th,Fr, ,Nauen
+Reach Beyond Australia,1300,1330,9610,  , , , , ,Fr, ,Kununurra
+Reach Beyond Australia,1315,1330,9610, , , ,We, , , ,Kununurra
+Reach Beyond Australia,1315,1330,11750, , , , , ,Fr, ,Kununurra
+Reach Beyond Australia,1330,1345,9720, , , , , ,Fr, ,Kununurra
 Trans World Radio,1430,1515,882, , , , , , ,Sa,Puttalam
 Trans World Radio,1500,1530,882,Su,Mo,Tu,We,Th,Fr, ,Puttalam
 Trans World Radio,2330,2400,882,Su,Mo,Tu,We,Th,Fr, ,Puttalam

@@ -1,6 +1,6 @@
 station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
 Bhutan Bc Service,0000,0300,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
 Bhutan Bc Service,1300,1400,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
-Gospel for Asia,,,15235, ,Mo,Tu,We, , , ,Nauen
-Reach Beyond Australia,,,11750, , , , , ,Fr, ,Kununurra
-Trans World Radio,,,11580,Su, , , , , ,Sa,Agana
+Gospel for Asia,1430,1445,15235, ,Mo,Tu,We, , , ,Nauen
+Reach Beyond Australia,1230,1245,11750, , , , , ,Fr, ,Kununurra
+Trans World Radio,1230,1245,11580,Su, , , , , ,Sa,Agana
