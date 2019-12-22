@@ -1,12 +1,2 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Trans World Radio,0045,0115,7465,, Mo,Tu,We,Th, Fr,,Grigoriopol,
-Trans World Radio,0115,0130,7465,,,Tu,,,,,Grigoriopol,
-Trans World Radio,1330,1345,9910, Su,,,,,,,Yerevan,
-Trans World Radio,1345,1400,9910, Su,,Tu,We,Th, Fr, Sa,Yerevan,
-Trans World Radio,1400,1430,9910,,,,,,, Sa,Yerevan,
-Trans World Radio,1345,1400,9300,, Mo,,We,,,,Yerevan,
-Trans World Radio,1400,1415,9300, Su,,,,,, Sa,Yerevan,
-Trans World Radio,1415,1430,9300,,,,We,Th, Fr, Sa,Yerevan,
-Trans World Radio,1430,1445,9300,, Mo,Tu,We,Th, Fr, Sa,Yerevan,
-Trans World Radio,1500,1530,9300, Su, Mo,Tu,We,Th, Fr, Sa,Yerevan,
-Trans World Radio,1530,1535,9300,, Mo,Tu,We,Th, Fr,,Yerevan,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Adventist World Radio,1530,1600,1548,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee

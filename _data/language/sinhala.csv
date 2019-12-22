@@ -1,7 +1,7 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-All India Radio,0045,0115,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin,
-All India Radio,0045,0115,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai,
-All India Radio,0045,0115,11590,Su,Mo,Tu,We,Th,Fr,Sa,Panaji,
-,1300,1500,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin,
-All India Radio,1300,1500,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai,
-Sri Lanka B/C Colombo,1630,1730,11750,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+All India Radio,0045,0115,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin
+All India Radio,0045,0115,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai
+All India Radio,0045,0115,11590,Su,Mo,Tu,We,Th,Fr,Sa,Panaji
+All India Radio,1300,1500,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin
+All India Radio,1300,1500,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai
+Sri Lanka B/C Colombo,1630,1730,11750,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee

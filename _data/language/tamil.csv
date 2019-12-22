@@ -1,2 +1,29 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Adventist World Radio,1500,1530,1548,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee,1234567
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Adventist World Radio,1500,1530,9470,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent
+All India Radio,0000,0045,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin
+All India Radio,0000,0045,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai
+All India Radio,0000,0045,9835,Su,Mo,Tu,We,Th,Fr,Sa,Delhi
+All India Radio,0000,0045,11590,Su,Mo,Tu,We,Th,Fr,Sa,Panaji
+All India Radio,0000,0045,13695,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru
+All India Radio,0115,0330,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin
+All India Radio,0115,0330,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai
+All India Radio,1000,1300,1053,Su,Mo,Tu,We,Th,Fr,Sa,Tuticorin
+All India Radio,1115,1215,7270,Su,Mo,Tu,We,Th,Fr,Sa,Chennai
+All India Radio,1115,1215,13695,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru
+China Radio Intl,,,13600,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,,,15260,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,,,13600,Su,Mo,Tu,We,Th,Fr,Sa,Kunming
+China Radio Intl,,,13730,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,,,11685,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,,,13600,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,,,9690,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+China Radio Intl,,,11685,Su,Mo,Tu,We,Th,Fr,Sa,Kashi
+FEBA Radio,1415,1430,11580, , ,Tu,We, , , ,Trincomalee
+Reach Beyond Australia,,,9610, , ,Tu, ,Th, ,Sa,Kununurra
+Reach Beyond Australia,,,15320, ,Mo,Tu,We,Th,Fr, ,Kununurra
+Reach Beyond Australia,,,15320, , , , , , ,Sa,Kununurra
+Reach Beyond Australia,,,15320, , ,Tu, , , , ,Kununurra
+Sri Lanka B/C Colombo,1115,1200,9720,Su,Mo,Tu,We,Th,Fr,Sa,Trincomalee
+Trans World Radio,0030,0130,882,Su,Mo,Tu,We,Th,Fr,Sa,Puttalam
+Vatican Radio,1450,1510,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+Vatican Radio,1450,1510,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines

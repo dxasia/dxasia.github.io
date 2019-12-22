@@ -1,3 +1,3 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Trans World Radio,1630,1645,882,Su, , , , , , ,Puttalam,
-Trans World Radio,1630,1700,882, ,Mo,Tu,We,Th,Fr, ,Puttalam,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Trans World Radio,1630,1645,882,Su, , , , , , ,Puttalam
+Trans World Radio,1630,1700,882, ,Mo,Tu,We,Th,Fr, ,Puttalam

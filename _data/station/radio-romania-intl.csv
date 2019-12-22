@@ -1,6 +1,6 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-0300,0356,English,11825,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni,
-0530,0556,English,17760,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni,
-0530,0556,English,21500,Su,Mo,Tu,We,Th,Fr,Sa,Tiganesti,
-1100,1156,English,15320,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni,
-1100,1156,English,17670,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+0300,0356,English,11825,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni
+0530,0556,English,17760,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni
+0530,0556,English,21500,Su,Mo,Tu,We,Th,Fr,Sa,Tiganesti
+1100,1156,English,15320,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni
+1100,1156,English,17670,Su,Mo,Tu,We,Th,Fr,Sa,Galbeni

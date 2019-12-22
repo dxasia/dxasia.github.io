@@ -1,3 +1,3 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Trans World Radio,1345,1400,12160,,,,,,, Sa,Tashkent,
-Trans World Radio,1600,1630,9610, Su, Mo,Tu,We,Th, Fr, Sa,Grigoriopol,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Trans World Radio,1345,1400,12160,,,,,,, Sa,Tashkent
+Trans World Radio,1600,1630,9610, Su, Mo,Tu,We,Th, Fr, Sa,Grigoriopol

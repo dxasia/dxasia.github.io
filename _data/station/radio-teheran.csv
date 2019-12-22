@@ -1,8 +1,8 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-1250,1420,Urdu,13745,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
-1420,1520,Bangla,6125,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
-1420,1520,Hindi,9810,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
-1420,1520,Hindi,12050,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
-1520,1620,English,9800,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
-1520,1620,Urdu,7300,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
-1620,1650,Bangla,7305,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+1250,1420,Urdu,13745,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+1420,1520,Bangla,6125,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+1420,1520,Hindi,9810,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+1420,1520,Hindi,12050,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+1520,1620,English,9800,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+1520,1620,Urdu,7300,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan
+1620,1650,Bangla,7305,Su,Mo,Tu,We,Th,Fr,Sa,Sirjan

@@ -1,112 +1,112 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-,,Mising,7380,Su, , , , ,Fr,Sa,Nauen,
-,,Bodo,7380, ,Mo,Tu, , , , ,Nauen,
-,,Khurukh,7380, , , ,We,Th, , ,Nauen,
-,,Bangla,7380,Su, , , , , ,Sa,Nauen,
-,,Chakma,7380, ,Mo,Tu, , , , ,Nauen,
-,,Santhali,7380, , , ,We,Th, , ,Nauen,
-,,Ho,7380, , , , , ,Fr, ,Nauen,
-,,Bantawa,7380,Su, , , , , , ,Nauen,
-,,Lungeli-Magar,7380, ,Mo, , , , , ,Nauen,
-,,Gurung,7380, , ,Tu,We, , , ,Nauen,
-,,Sherpa,7380, , , , ,Th, , ,Nauen,
-,,Limbu,7380, , , , , ,Fr,Sa,Nauen,
-,,Chin,7380,Su,Mo, , , , , ,Nauen,
-,,Burmese,7380, , ,Tu,We,Th, , ,Nauen,
-,,Karbi,7380, , , , , ,Fr,Sa,Nauen,
-,,Garhwali,7465,Su, , , , , ,Sa,Tashkent,
-,,Bagri,7465, ,Mo,Tu, , , , ,Tashkent,
-,,Khariya,7465, , , ,We, , , ,Tashkent,
-,,Vasavi,7465, , , , ,Th, , ,Tashkent,
-,,Bundelkhandi,7465, , , , , ,Fr, ,Tashkent,
-,,Kangri,7465,Su, , , , , ,Sa,Tashkent,
-,,Rajasthani,7465, ,Mo,Tu, , , , ,Tashkent,
-,,Magahi,7465, , , ,We, , , ,Tashkent,
-,,Dogri,7465, , , , ,Th,Fr, ,Tashkent,
-,,Kinnauri,7465,Su, , , , , ,Sa,Tashkent,
-,,Marwari,7465, ,Mo,Tu, , , , ,Tashkent,
-,,Sindhi,7465, , , ,We, , , ,Tashkent,
-,,Punjabi,7465, , , , ,Th,Fr, ,Tashkent,
-,,Bhili,7465, ,Mo, , , , , ,Tashkent,
-,,Kukna,7465, , ,Tu, , , , ,Tashkent,
-,,Kotwali,7465, , , ,We, , , ,Tashkent,
-,,Vadari,7465, , , , ,Th, , ,Tashkent,
-,,Varli,7465, , , , , ,Fr, ,Tashkent,
-,,Sindhi,15150,Su, , , , , ,Sa,Nauen,
-,,Chhattisgari,15150, ,Mo,Tu, , , , ,Nauen,
-,,Maithili,15150, , , ,We,Th,Fr, ,Nauen,
-,,Bundelkhandi,15150, ,Mo,Tu, , , , ,Nauen,
-,,Bagheli,15150, , , ,We,Th,Fr, ,Nauen,
-,,Pashto,15150,Su, , , , , , ,Nauen,
-,,Dari,15150, , , , , , ,Sa,Nauen,
-,,Awadhi,15150, ,Mo,Tu,We, , , ,Nauen,
-,,Sadri,15150, , , , ,Th,Fr, ,Nauen,
-,,Hindi,15150,Su,Mo,Tu,We,Th,Fr,Sa,Nauen,
-,,Rongmei,15235,Su, , , , , , ,Nauen,
-,,Nockte,15235, ,Mo,Tu, , , , ,Nauen,
-,,Tharu,15235, , , ,We,Th, , ,Nauen,
-,,Tangkhul,15235, , , , , ,Fr,Sa,Nauen,
-,,Thadou-Kuki,15235,Su, , , , , ,Sa,Nauen,
-,,Kokborok,15235, ,Mo,Tu, , , , ,Nauen,
-,,Kaubru,15235, , , ,We, , , ,Nauen,
-,,Deori,15235, , , , ,Th,Fr, ,Nauen,
-,,Sumi,15235,Su, , , , , , ,Nauen,
-,,Halam,15235, ,Mo,Tu, , , , ,Nauen,
-,,Rengma,15235, , , ,We, , , ,Nauen,
-,,Karbi,15235, , , , ,Th,Fr, ,Nauen,
-,,Ao,15235, , , , , , ,Sa,Nauen,
-,,Garo,15235,Su, , , , , ,Sa,Nauen,
-,,Santhali,15235, ,Mo,Tu, , , , ,Nauen,
-,,Mising,15235, , , ,We,Th,Fr, ,Nauen,
-,,Khasi,15235,Su, , , , , ,Sa,Nauen,
-,,Dzongkha,15235, ,Mo,Tu,We, , , ,Nauen,
-,,Konyak,15235, , , , ,Th,Fr, ,Nauen,
-,,Tibetan(Khams),15235,Su, , , , , ,Sa,Nauen,
-,,Sarchopa,15235, ,Mo,Tu,We, , , ,Nauen,
-,,Newari,15235, , , , ,Th,Fr, ,Nauen,
-,,Meitei,15235,Su, , , , , ,Sa,Nauen,
-,,Sherpa,15235, ,Mo, , , , , ,Nauen,
-,,Lepcha,15235, , ,Tu,We, , , ,Nauen,
-,,Magahi,15235, , , , ,Th,Fr, ,Nauen,
-,,Bangla,15235,Su, , , , ,Fr,Sa,Nauen,
-,,Tamang,15235, ,Mo,Tu, , , , ,Nauen,
-,,Mundari,15235, , , ,We,Th, , ,Nauen,
-,,Oriya,15285,Su, , , , ,Fr,Sa,Nauen,
-,,Gojri,15285, ,Mo, , , , , ,Nauen,
-,,Ladakhi,15285, , ,Tu, , , , ,Nauen,
-,,Kashmiri,15285, , , ,We,Th, , ,Nauen,
-,,Koya,15285,Su, , , , , ,Sa,Nauen,
-,,Punjabi,15285, ,Mo,Tu,We, , , ,Nauen,
-,,Gujarati,15285, , , , ,Th,Fr, ,Nauen,
-,,Nepali,15285,Su,Mo,Tu,We,Th,Fr,Sa,Nauen,
-,,Hindi,15285,Su, , , , , ,Sa,Nauen,
-,,Santhali,15285, ,Mo, , , , , ,Nauen,
-,,Vadari,15285, , ,Tu, , , , ,Nauen,
-,,Khandesi,15285, , , ,We, , , ,Nauen,
-,,Marathi,15285, , , , ,Th,Fr, ,Nauen,
-,,Tibetan(Lhasa),15285,Su, , , , , , ,Nauen,
-,,Meitei,15285, ,Mo,Tu,We, , , ,Nauen,
-,,Malto,15285, , , , ,Th, , ,Nauen,
-,,Malto-FMPB,15285, , , , , ,Fr, ,Nauen,
-,,Tibetan(Amdo dialect),15285, , , , , , ,Sa,Nauen,
-,,Netakani,15285,Su, , , , , , ,Nauen,
-,,Marwari,15285, ,Mo,Tu, , , , ,Nauen,
-,,Deshiya,15285, , , ,We,Th, , ,Nauen,
-,,Urdu,15285, , , , , ,Fr,Sa,Nauen,
-,,Kupiya,15285,Su, , , , , , ,Nauen,
-,,Soura,15285, ,Mo,Tu, , , , ,Nauen,
-,,Bondo,15285, , , ,We, , , ,Nauen,
-,,Bhili,15285, , , , ,Th, , ,Nauen,
-,,Gondi,15285, , , , , ,Fr, ,Nauen,
-,,Yerukala,15285, , , , , , ,Sa,Nauen,
-,,Banjara,15285,Su, , , , , ,Sa,Nauen,
-,,Kui,15285, ,Mo,Tu, , , , ,Nauen,
-,,Gamit,15285, , , ,We,Th, , ,Nauen,
-,,Kukna,15285, , , , , ,Fr, ,Nauen,
-,,Haryanvi,15285,Su, , , , , ,Sa,Nauen,
-,,Sambalpuri,15285, ,Mo,Tu, , , , ,Nauen,
-,,Varti,15285, , , ,We, , , ,Nauen,
-,,Mouchi,15285, , , , ,Th, , ,Nauen,
-,,Kotwalia,15285, , , , , ,Fr, ,Nauen,
-,,Bhaojpuri,15285,Su, , , , , ,Sa,Nauen,
-,,Hindi,15285, ,Mo,Tu,We,Th,Fr, ,Nauen,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+,,Mising,7380,Su, , , , ,Fr,Sa,Nauen
+,,Bodo,7380, ,Mo,Tu, , , , ,Nauen
+,,Khurukh,7380, , , ,We,Th, , ,Nauen
+,,Bengali,7380,Su, , , , , ,Sa,Nauen
+,,Chakma,7380, ,Mo,Tu, , , , ,Nauen
+,,Santhali,7380, , , ,We,Th, , ,Nauen
+,,Ho,7380, , , , , ,Fr, ,Nauen
+,,Bantawa,7380,Su, , , , , , ,Nauen
+,,Lungeli-Magar,7380, ,Mo, , , , , ,Nauen
+,,Gurung,7380, , ,Tu,We, , , ,Nauen
+,,Sherpa,7380, , , , ,Th, , ,Nauen
+,,Limbu,7380, , , , , ,Fr,Sa,Nauen
+,,Chin,7380,Su,Mo, , , , , ,Nauen
+,,Burmese,7380, , ,Tu,We,Th, , ,Nauen
+,,Karbi,7380, , , , , ,Fr,Sa,Nauen
+,,Garhwali,7465,Su, , , , , ,Sa,Tashkent
+,,Bagri,7465, ,Mo,Tu, , , , ,Tashkent
+,,Khariya,7465, , , ,We, , , ,Tashkent
+,,Vasavi,7465, , , , ,Th, , ,Tashkent
+,,Bundelkhandi,7465, , , , , ,Fr, ,Tashkent
+,,Kangri,7465,Su, , , , , ,Sa,Tashkent
+,,Rajasthani,7465, ,Mo,Tu, , , , ,Tashkent
+,,Magahi,7465, , , ,We, , , ,Tashkent
+,,Dogri,7465, , , , ,Th,Fr, ,Tashkent
+,,Kinnauri,7465,Su, , , , , ,Sa,Tashkent
+,,Marwari,7465, ,Mo,Tu, , , , ,Tashkent
+,,Sindhi,7465, , , ,We, , , ,Tashkent
+,,Punjabi,7465, , , , ,Th,Fr, ,Tashkent
+,,Bhili,7465, ,Mo, , , , , ,Tashkent
+,,Kukna,7465, , ,Tu, , , , ,Tashkent
+,,Kotwali,7465, , , ,We, , , ,Tashkent
+,,Vadari,7465, , , , ,Th, , ,Tashkent
+,,Varli,7465, , , , , ,Fr, ,Tashkent
+,,Sindhi,15150,Su, , , , , ,Sa,Nauen
+,,Chhattisgari,15150, ,Mo,Tu, , , , ,Nauen
+,,Maithili,15150, , , ,We,Th,Fr, ,Nauen
+,,Bundelkhandi,15150, ,Mo,Tu, , , , ,Nauen
+,,Bagheli,15150, , , ,We,Th,Fr, ,Nauen
+,,Pashto,15150,Su, , , , , , ,Nauen
+,,Dari,15150, , , , , , ,Sa,Nauen
+,,Awadhi,15150, ,Mo,Tu,We, , , ,Nauen
+,,Sadri,15150, , , , ,Th,Fr, ,Nauen
+,,Hindi,15150,Su,Mo,Tu,We,Th,Fr,Sa,Nauen
+,,Rongmei,15235,Su, , , , , , ,Nauen
+,,Nockte,15235, ,Mo,Tu, , , , ,Nauen
+,,Tharu,15235, , , ,We,Th, , ,Nauen
+,,Tangkhul,15235, , , , , ,Fr,Sa,Nauen
+,,Thadou-Kuki,15235,Su, , , , , ,Sa,Nauen
+,,Kokborok,15235, ,Mo,Tu, , , , ,Nauen
+,,Kaubru,15235, , , ,We, , , ,Nauen
+,,Deori,15235, , , , ,Th,Fr, ,Nauen
+,,Sumi,15235,Su, , , , , , ,Nauen
+,,Halam,15235, ,Mo,Tu, , , , ,Nauen
+,,Rengma,15235, , , ,We, , , ,Nauen
+,,Karbi,15235, , , , ,Th,Fr, ,Nauen
+,,Ao,15235, , , , , , ,Sa,Nauen
+,,Garo,15235,Su, , , , , ,Sa,Nauen
+,,Santhali,15235, ,Mo,Tu, , , , ,Nauen
+,,Mising,15235, , , ,We,Th,Fr, ,Nauen
+,,Khasi,15235,Su, , , , , ,Sa,Nauen
+,,Dzongkha,15235, ,Mo,Tu,We, , , ,Nauen
+,,Konyak,15235, , , , ,Th,Fr, ,Nauen
+,,Tibetan(Khams),15235,Su, , , , , ,Sa,Nauen
+,,Sarchopa,15235, ,Mo,Tu,We, , , ,Nauen
+,,Newari,15235, , , , ,Th,Fr, ,Nauen
+,,Meitei,15235,Su, , , , , ,Sa,Nauen
+,,Sherpa,15235, ,Mo, , , , , ,Nauen
+,,Lepcha,15235, , ,Tu,We, , , ,Nauen
+,,Magahi,15235, , , , ,Th,Fr, ,Nauen
+,,Bengali,15235,Su, , , , ,Fr,Sa,Nauen
+,,Tamang,15235, ,Mo,Tu, , , , ,Nauen
+,,Mundari,15235, , , ,We,Th, , ,Nauen
+,,Oriya,15285,Su, , , , ,Fr,Sa,Nauen
+,,Gojri,15285, ,Mo, , , , , ,Nauen
+,,Ladakhi,15285, , ,Tu, , , , ,Nauen
+,,Kashmiri,15285, , , ,We,Th, , ,Nauen
+,,Koya,15285,Su, , , , , ,Sa,Nauen
+,,Punjabi,15285, ,Mo,Tu,We, , , ,Nauen
+,,Gujarati,15285, , , , ,Th,Fr, ,Nauen
+,,Nepali,15285,Su,Mo,Tu,We,Th,Fr,Sa,Nauen
+,,Hindi,15285,Su, , , , , ,Sa,Nauen
+,,Santhali,15285, ,Mo, , , , , ,Nauen
+,,Vadari,15285, , ,Tu, , , , ,Nauen
+,,Khandesi,15285, , , ,We, , , ,Nauen
+,,Marathi,15285, , , , ,Th,Fr, ,Nauen
+,,Tibetan(Lhasa),15285,Su, , , , , , ,Nauen
+,,Meitei,15285, ,Mo,Tu,We, , , ,Nauen
+,,Malto,15285, , , , ,Th, , ,Nauen
+,,Malto-FMPB,15285, , , , , ,Fr, ,Nauen
+,,Tibetan(Amdo dialect),15285, , , , , , ,Sa,Nauen
+,,Netakani,15285,Su, , , , , , ,Nauen
+,,Marwari,15285, ,Mo,Tu, , , , ,Nauen
+,,Deshiya,15285, , , ,We,Th, , ,Nauen
+,,Urdu,15285, , , , , ,Fr,Sa,Nauen
+,,Kupiya,15285,Su, , , , , , ,Nauen
+,,Soura,15285, ,Mo,Tu, , , , ,Nauen
+,,Bondo,15285, , , ,We, , , ,Nauen
+,,Bhili,15285, , , , ,Th, , ,Nauen
+,,Gondi,15285, , , , , ,Fr, ,Nauen
+,,Yerukala,15285, , , , , , ,Sa,Nauen
+,,Banjara,15285,Su, , , , , ,Sa,Nauen
+,,Kui,15285, ,Mo,Tu, , , , ,Nauen
+,,Gamit,15285, , , ,We,Th, , ,Nauen
+,,Kukna,15285, , , , , ,Fr, ,Nauen
+,,Haryanvi,15285,Su, , , , , ,Sa,Nauen
+,,Sambalpuri,15285, ,Mo,Tu, , , , ,Nauen
+,,Varti,15285, , , ,We, , , ,Nauen
+,,Mouchi,15285, , , , ,Th, , ,Nauen
+,,Kotwalia,15285, , , , , ,Fr, ,Nauen
+,,Bhaojpuri,15285,Su, , , , , ,Sa,Nauen
+,,Hindi,15285, ,Mo,Tu,We,Th,Fr, ,Nauen

@@ -1,6 +1,2 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Adventist World Radio,1530,1600,15670, , , , ,Th,Fr, ,Nauen,56
-All India Radio,1215,1330,9425,Su,Mo,Tu,We,Th,Fr,Sa,Bengaluru,
-All India Radio,1215,1330,11620,Su,Mo,Tu,We,Th,Fr,Sa,Panaji,
-FEBA Radio,1200,1230,15215,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya,
-Reach Beyond Australia,,,15575, ,Mo, ,We, , , ,Kununurra,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Trans World Radio,0115,0130,7465,,,,,Th,,,Grigoriopol

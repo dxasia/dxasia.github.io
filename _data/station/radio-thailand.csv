@@ -1,7 +1,7 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-0000,0030,English,15590,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani,
-0030,0100,English,15590,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani,
-0200,0230,English,15590,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani,
-0530,0600,English,17640,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani,
-1230,1300,English,9390,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani,
-1400,1430,English,9390,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+0000,0030,English,15590,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani
+0030,0100,English,15590,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani
+0200,0230,English,15590,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani
+0530,0600,English,17640,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani
+1230,1300,English,9390,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani
+1400,1430,English,9390,Su,Mo,Tu,We,Th,Fr,Sa,Udon Thani

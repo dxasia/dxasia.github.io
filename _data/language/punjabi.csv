@@ -1,4 +1,11 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Trans World Radio,1445,1545,12160,, Mo,Tu,We,Th, Fr,,Grigoriopol,
-Trans World Radio,1400,1430,9910, Su,,,,,,,Yerevan,
-Trans World Radio,1345,1415,9300,,,Tu,,,,,Yerevan,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Bible Voice,1500,1600,15350,,,, ,,Fr,,Sofia
+FEBA Radio,0215,0230,9750,,Mo,,,,,,Dhabayya
+Gospel for Asia,,,7465, , , , ,Th,Fr, ,Tashkent
+Gospel for Asia,,,15285, ,Mo,Tu,We, , , ,Nauen
+Reach Beyond Australia,,,11750, , , , ,Th, , ,Kununurra
+Reach Beyond Australia,,,11750, , , ,We, , , ,Kununurra
+Reach Beyond Australia,,,9720,Su, , ,We, , , ,Kununurra
+Trans World Radio,,1400,1467, ,Mo,Tu, , , , ,Bishkek
+Trans World Radio,,1430,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek
+Trans World Radio,,1530,1467,Su,Mo,Tu,We,Th,Fr,Sa,Bishkek

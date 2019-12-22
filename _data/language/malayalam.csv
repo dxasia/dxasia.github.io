@@ -1,8 +1,8 @@
-station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-Adventist World Radio,1530,1600,15605,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar,1234567
-All India Radio,1730,1830,12025,Su,Mo,Tu,We,Th,Fr,Sa,Panaji,
-FEBA Radio,1400,1415,11580, , , ,We,Th,Fr,Sa,Trincomalee,
-Reach Beyond Australia,,,9610, ,Mo, ,We, , , ,Kununurra,
-Trans World Radio,0000,0030,882,Su,Mo,Tu,We,Th,Fr,Sa,Puttalam,
-Vatican Radio,1510,1530,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
-Vatican Radio,1510,1530,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
+station,start,end,freq,d1,d2,d3,d4,d5,d6,d7,tx
+Adventist World Radio,1530,1600,15605,Su,Mo,Tu,We,Th,Fr,Sa,Madagascar
+All India Radio,1730,1830,12025,Su,Mo,Tu,We,Th,Fr,Sa,Panaji
+FEBA Radio,1400,1415,11580, , , ,We,Th,Fr,Sa,Trincomalee
+Reach Beyond Australia,,,9610, ,Mo, ,We, , , ,Kununurra
+Trans World Radio,0000,0030,882,Su,Mo,Tu,We,Th,Fr,Sa,Puttalam
+Vatican Radio,1510,1530,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+Vatican Radio,1510,1530,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines

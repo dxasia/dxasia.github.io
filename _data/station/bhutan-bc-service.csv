@@ -1,8 +1,8 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-0000,0300,Dzongkha,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
-0300,0400,Sharchhop,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
-0400,0800,Nepali,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
-0800,1200,English,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
-1200,1300,Sharchhop,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
-1300,1400,Dzongkha,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
-1400,1600,Nepali,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+0000,0300,Dzongkha,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
+0300,0400,Sharchhop,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
+0400,0800,Nepali,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
+0800,1200,English,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
+1200,1300,Sharchhop,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
+1300,1400,Dzongkha,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu
+1400,1600,Nepali,6035,Su,Mo,Tu,We,Th,Fr,Sa,Thimphu

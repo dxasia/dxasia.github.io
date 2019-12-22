@@ -1,7 +1,7 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-1430,1450,Hindi,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
-1430,1450,Hindi,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
-1450,1510,Tamil,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
-1450,1510,Tamil,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
-1510,1530,Malayalam,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
-1510,1530,Malayalam,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+1430,1450,Hindi,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+1430,1450,Hindi,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+1450,1510,Tamil,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+1450,1510,Tamil,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+1510,1530,Malayalam,5920,Su,Mo,Tu,We,Th,Fr,Sa,Philippines
+1510,1530,Malayalam,7320,Su,Mo,Tu,We,Th,Fr,Sa,Philippines

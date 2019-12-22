@@ -1,15 +1,15 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-0000,0030,Bangla,9390,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
-0200,0215,Urdu,9750,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya,
-0215,0230,Punjabi,9750,,Mo,,,,,,Dhabayya,
-0215,0230,Sindhi,9750,,,Tu,We,Th,,,Dhabayya,
-0215,0230,Urdu,9750,Su, , , , ,Fr,Sa,Dhabayya,
-1200,1230,Tibetan,15215,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya,
-1400,1415,Kannada,11580,Su, , , , , , ,Trincomalee,
-1400,1415,Malayalam,11580, , , ,We,Th,Fr,Sa,Trincomalee,
-1400,1415,Telugu,11580, ,Mo,Tu, , , , ,Trincomalee,
-1415,1430,English,11580, ,Mo, , , , , ,Trincomalee,
-1415,1430,Kannada,11580, , , , ,Th,Fr,Sa,Trincomalee,
-1415,1430,Tamil,11580, , ,Tu,We, , , ,Trincomalee,
-1430,1500,Hindi,9500,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
-1500,1530,Bangla,9390,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+0000,0030,Bangla,9390,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent
+0200,0215,Urdu,9750,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+0215,0230,Punjabi,9750,,Mo,,,,,,Dhabayya
+0215,0230,Sindhi,9750,,,Tu,We,Th,,,Dhabayya
+0215,0230,Urdu,9750,Su, , , , ,Fr,Sa,Dhabayya
+1200,1230,Tibetan,15215,Su,Mo,Tu,We,Th,Fr,Sa,Dhabayya
+1400,1415,Kannada,11580,Su, , , , , , ,Trincomalee
+1400,1415,Malayalam,11580, , , ,We,Th,Fr,Sa,Trincomalee
+1400,1415,Telugu,11580, ,Mo,Tu, , , , ,Trincomalee
+1415,1430,English,11580, ,Mo, , , , , ,Trincomalee
+1415,1430,Kannada,11580, , , , ,Th,Fr,Sa,Trincomalee
+1415,1430,Tamil,11580, , ,Tu,We, , , ,Trincomalee
+1430,1500,Hindi,9500,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent
+1500,1530,Bangla,9390,Su,Mo,Tu,We,Th,Fr,Sa,Tashkent

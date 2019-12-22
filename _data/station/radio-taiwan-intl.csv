@@ -1,4 +1,4 @@
-start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx,ds
-0300,0400,English,15320,Su,Mo,Tu,We,Th,Fr,Sa,Taipei,
-1100,1200,English,7445,Su,Mo,Tu,We,Th,Fr,Sa,Taipei,
-1600,1700,English,9405,Su,Mo,Tu,We,Th,Fr,Sa,Taipei,
+start,end,language,freq,d1,d2,d3,d4,d5,d6,d7,tx
+0300,0400,English,15320,Su,Mo,Tu,We,Th,Fr,Sa,Taipei
+1100,1200,English,7445,Su,Mo,Tu,We,Th,Fr,Sa,Taipei
+1600,1700,English,9405,Su,Mo,Tu,We,Th,Fr,Sa,Taipei
